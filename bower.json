@@ -1,0 +1,9 @@
+{
+  "name": "creative4",
+  "version": "0.0.1",
+  "dependencies": {
+    "angular": "latest",
+    "socket.io": "latest",
+    "angular-socket-io": "^0.7.0"
+  }
+}

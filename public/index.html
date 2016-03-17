@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html ng-app='app'>
+<head>
+	<title>canvas</title>
+	<script type="text/javascript" src='lib/angular/angular.min.js'></script>
+	<script type="text/javascript" src='/socket.io/socket.io.js'></script>
+	<script type="text/javascript" src='javascripts/app.js'></script>
+</head>
+<body ng-controller='ctrl' ng-keydown='keydown($event)' ng-keyup='keyup($event)'>
+	<h1>{{ title }}</h1>
+	<canvas id='canvas' style='border: 2px solid black' width='720' height='500'></canvas>
+	<!-- <p>move using arrow keys</p> -->
+	<!-- <p>shoot using a, s, d, w</p> -->
+</body>
