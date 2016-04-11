@@ -1,14 +1,31 @@
 <!DOCTYPE html>
 <html ng-app='app'>
+
 <head>
-	<title>canvas</title>
-	<script type="text/javascript" src='lib/angular/angular.min.js'></script>
-	<script type="text/javascript" src='/socket.io/socket.io.js'></script>
-	<script type="text/javascript" src='javascripts/app.js'></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{title}}</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+    <script type="text/javascript" src='lib/angular/angular.min.js'></script>
+    <script type="text/javascript" src='/socket.io/socket.io.js'></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script type="text/javascript" src='javascripts/app.js'></script>
 </head>
+
 <body ng-controller='ctrl' ng-keydown='keydown($event)' ng-keyup='keyup($event)'>
-	<h1>{{ title }}</h1>
-	<canvas id='canvas' style='border: 2px solid black' width='720' height='500'></canvas>
-	<!-- <p>move using arrow keys</p> -->
-	<!-- <p>shoot using a, s, d, w</p> -->
+    <div class="container-fluid">
+        <div class="row-fluid">
+            <nav class="navbar navbar-default navbar-fixed-top">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <a class="navbar-brand" href="#">{{title}}</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <div class="container-fluid">
+            <canvas id='canvas' style='border: 2px solid black' width='720' height='500'></canvas>
+        </div>
+    </div>
 </body>
