@@ -42,12 +42,12 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
 
     $scope.user = {
         hp: 5,
-        size: 30,
+        size: 40,
         speed: 4,
         shotSpeed: 1,
-        shotSize: 5,
-        freq: 5,
-        range: 1,
+        shotSize: 10,
+        freq: 7,
+        range: 3,
         killstreak: 0
     }
 
@@ -187,6 +187,17 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
 
     socket.on('youHit', function() {
         $scope.player.hp--;
+        $scope.player.width = $scope.player.hp*8;
+        $scope.player.height = $scope.player.hp*8;
+
+        if($scope.player.hp == 2){
+            console.log("small-power-time!!!");
+            $scope.user.range = .5;
+            $scope.user.speed = 5;
+            $scope.user.shotSpeed = 3;
+            $scope.user.shotSize = 6;
+            //$scope.user.freq = 5;
+        }
     })
 
     socket.on('youDied', function() {
