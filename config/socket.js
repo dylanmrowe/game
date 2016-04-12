@@ -25,10 +25,21 @@ var sockets = function(server) {
 			// console.log(enemies);
 		})
 
+		socket.on('enemyDead', function(enemyId) {
+			console.log(enemyId + ' died');
+			socket.broadcast.to(enemyId).emit('youDied');
+		})
+
+		socket.on('removePlayer', function() {
+			console.log(this.id);
+			players.splice(players.findIndex(findPlayer, this), 1);
+			console.log(players);
+		})
+
 		socket.on('disconnect', function() {
 			console.log('USER DISCONNECTED =======================================');
-			players.splice(players.findIndex(findPlayer, this), 1);
-
+			if (players.findIndex(findPlayer, this) != -1)
+				players.splice(players.findIndex(findPlayer, this), 1);
 		})
 	})
 
