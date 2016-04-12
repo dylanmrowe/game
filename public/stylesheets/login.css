@@ -1,3 +1,7 @@
+body{
+    background-color: black;
+}
+
 div#login {
     width: 300px;
     left: 50%;

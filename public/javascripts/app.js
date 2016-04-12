@@ -2,7 +2,7 @@ var app = angular.module('app', []);
 
 app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
 
-    $scope.title = 'canvas';
+    $scope.title = 'Cool Game';
     $scope.player;
     $scope.enemies = {
         enemyList: [],
@@ -47,7 +47,8 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
         shotSpeed: 1,
         shotSize: 5,
         freq: 5,
-        range: 1
+        range: 1,
+        killstreak: 0
     }
 
     $http.get('users/verify').then(function OK(e) {
@@ -173,6 +174,7 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
                     if (enemy.hp <= 0) {
                         $http.post('users/upkill');
                         $scope.player.kills++;
+                        $scope.user.killstreak += 1;
                         console.log('enemy dead');
                         socket.emit('enemyDead', enemy.id);
                     }
@@ -189,7 +191,7 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
         var ctx = $scope.gameArea.canvas.getContext('2d');
         ctx.font = '30px Arial';
         ctx.textAlign = 'center';
-        ctx.fillStyle = 'black';
+        ctx.fillStyle = 'white';
         ctx.fillText("YOU DIED!!!",250,250);
     })
 
@@ -218,11 +220,12 @@ app.factory('Player', ['$timeout', 'Shot', '$http', function ($timeout, Shot, $h
         this.shots = [];
         this.speedX = 0;
         this.speedY = 0;
-        this.name = '';
+        //this.name = '';
         this.shotcount = shotcount;
         this.hits = hits;
         this.kills = kills;
         this.deaths = deaths;
+        this.killstreak = 0;
         this.draw = function () {
             ctx = gameArea.context;
             ctx.fillStyle = color;
