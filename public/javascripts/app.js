@@ -41,7 +41,7 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
     }
 
     $scope.user = {
-        hp: 1,
+        hp: 5,
         size: 30,
         speed: 4,
         shotSpeed: 1,
@@ -170,6 +170,7 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
                     enemy.hp--;
                     $http.post('users/uphit');
                     $scope.player.hits++;
+                    socket.emit('hitEnemy', enemy.id);
                     console.log('hit enemy ' + enemy.id, 'enemy hp: ' + enemy.hp);
                     if (enemy.hp <= 0) {
                         $http.post('users/upkill');
@@ -183,6 +184,10 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
         })
 
     }
+
+    socket.on('youHit', function() {
+        $scope.player.hp--;
+    })
 
     socket.on('youDied', function() {
         console.log('I died');

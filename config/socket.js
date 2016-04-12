@@ -25,6 +25,11 @@ var sockets = function(server) {
 			// console.log(enemies);
 		})
 
+		socket.on('hitEnemy', function(enemyId) {
+			console.log(enemyId + ' was hit');
+			socket.broadcast.to(enemyId).emit('youHit');
+		})
+
 		socket.on('enemyDead', function(enemyId) {
 			console.log(enemyId + ' died');
 			socket.broadcast.to(enemyId).emit('youDied');
