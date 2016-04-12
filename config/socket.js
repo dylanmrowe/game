@@ -38,8 +38,9 @@ var sockets = function(server) {
 
 		socket.on('disconnect', function() {
 			console.log('USER DISCONNECTED =======================================');
-			if (players.findIndex(findPlayer, this) != -1)
+			if (players.findIndex(findPlayer, this) != -1) {
 				players.splice(players.findIndex(findPlayer, this), 1);
+			}
 		})
 	})
 
