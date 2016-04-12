@@ -11,6 +11,8 @@
     <script type="text/javascript" src='/socket.io/socket.io.js'></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
     <script type="text/javascript" src='javascripts/app.js'></script>
+
+    <link rel="stylesheet" type="text/css" href="./stylesheets/style.css">
 </head>
 
 <body ng-controller='ctrl' ng-keydown='keydown($event)' ng-keyup='keyup($event)'>
@@ -24,8 +26,9 @@
                 </div>
             </nav>
         </div>
+
         <div class="container-fluid">
-            <canvas id='canvas' style='border: 2px solid black' width='720' height='500'></canvas>
+            <canvas id='canvas'></canvas>
         </div>
     </div>
 </body>

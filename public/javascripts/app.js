@@ -116,6 +116,10 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
             $scope.player.speedY = $scope.user.speed;
         }
 
+        if($scope.gameArea.keys && $scope.gameArea.keys[32]) {
+            console.log($scope.enemies.enemyList);
+        }
+
         $scope.player.update();
         $scope.player.draw();
 
@@ -170,12 +174,24 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
                         $http.post('users/upkill');
                         $scope.player.kills++;
                         console.log('enemy dead');
+                        socket.emit('enemyDead', enemy.id);
                     }
                 }
             })
         })
 
     }
+
+    socket.on('youDied', function() {
+        console.log('I died');
+        $interval.cancel($scope.gameArea.interval);
+        socket.emit('removePlayer');
+        var ctx = $scope.gameArea.canvas.getContext('2d');
+        ctx.font = '30px Arial';
+        ctx.textAlign = 'center';
+        ctx.fillStyle = 'black';
+        ctx.fillText("YOU DIED!!!",250,250);
+    })
 
     socket.on('greeting', function (data) {
         $scope.startGame();
@@ -186,9 +202,7 @@ app.controller('ctrl', function ($scope, $interval, Player, socket, $http) {
     })
 
     socket.on('enemies', function (enemies) {
-        enemies.forEach(function (enemy) {
-            $scope.enemies.enemyList = enemies;
-        })
+        $scope.enemies.enemyList = enemies;
     })
 })
 

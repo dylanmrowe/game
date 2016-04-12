@@ -1,13 +1,18 @@
 body {
   	padding: 50px;
   	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  	width:900;
-	margin-right:40%;
-	margin-left:auto;
 }
 
-#canvas{
-
+canvas{
+	padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 2px solid black;
+    width:500px;
+    height:500px;
+    margin-top:'20';
 }
 
 a {
