@@ -1,0 +1,1014 @@
+nohup: ignoring input
+[0mGET / [36m304 [0m6.729 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m1.641 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m2.677 ms - 8951[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 91,
+  y: 102,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#9idDu6aWY2dbUyUUAAAA' }
+[0mGET / [36m304 [0m0.492 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.951 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.201 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 322,
+  y: 230,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#V6ujXaZSg0pVnmeNAAAB' }
+[0mGET / [36m304 [0m1.155 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m1.254 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m1.584 ms - 8951[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 126,
+  y: 459,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#7OIwb-j4bPMIS94cAAAC' }
+[0mGET / [32m200 [0m0.999 ms - 566[0m
+[0mGET /javascripts/app.js [32m200 [0m0.529 ms - 8951[0m
+[0mGET /lib/angular/angular.min.js [32m200 [0m0.781 ms - 154333[0m
+USER CONNECTED ==============================================
+[0mGET /favicon.ico [33m404 [0m305.309 ms - 1175[0m
+[0mGET /favicon.ico [33m404 [0m37.867 ms - 1175[0m
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 404,
+  y: 184,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#0G8SKsgy05ra4K7dAAAD' }
+[0mGET / [36m304 [0m5.390 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.887 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m2.153 ms - 8951[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 300,
+  y: 3,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#J28jukEERXhHOtB4AAAE' }
+[0mGET / [36m304 [0m0.403 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.326 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.190 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 353,
+  y: 431,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#sH972TlwK0--9EaAAAAF' }
+[0mGET / [36m304 [0m0.274 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.279 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.323 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 336,
+  y: 64,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#9_lr0Uq0OXSskS4QAAAG' }
+[0mGET / [36m304 [0m0.702 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.286 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.183 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 406,
+  y: 290,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#_L7Tqa2nZdY9vla3AAAH' }
+[0mGET / [36m304 [0m0.271 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.706 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.166 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 139,
+  y: 11,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#gwY6E0Hy3TbydIQiAAAI' }
+[0mGET / [36m304 [0m0.722 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.830 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.724 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 411,
+  y: 115,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#rGBaxA2DhIMUWUlkAAAJ' }
+[0mGET / [36m304 [0m0.294 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.275 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.172 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 277,
+  y: 214,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#ffPbJcoKlZffUw1aAAAK' }
+[0mGET / [36m304 [0m0.344 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /javascripts/app.js [36m304 [0m1.114 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m1.049 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 275,
+  y: 30,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#eg30jXLPASYnZ1noAAAL' }
+[0mGET / [36m304 [0m0.249 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.261 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.180 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 301,
+  y: 224,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#Njdrrl6aXQ3Y9i1WAAAM' }
+[0mGET / [36m304 [0m0.280 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.442 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.213 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 121,
+  y: 349,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#S2Ft2Q4WlEsYPcNuAAAN' }
+[0mGET / [32m200 [0m2.532 ms - 554[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m1.368 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.389 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 95,
+  y: 426,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#y3nskYUZZqXtD1mlAAAO' }
+[0mGET / [36m304 [0m0.576 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.280 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.226 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 34,
+  y: 58,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#rs67Q5GZEQXJTSqjAAAP' }
+[0mGET / [36m304 [0m0.287 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.304 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.200 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 429,
+  y: 134,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#e__1cN0XpEfI7j5hAAAQ' }
+[0mGET / [36m304 [0m0.300 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.257 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.650 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 58,
+  y: 43,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#05ZZsRAfHpOZZg_mAAAR' }
+[0mGET / [36m304 [0m0.287 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /javascripts/app.js [36m304 [0m1.752 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.634 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 135,
+  y: 26,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#ESDUcg42gKl8x8inAAAS' }
+[0mGET / [36m304 [0m0.276 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.274 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.525 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 227,
+  y: 361,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#vzH92xf5x9fLvbknAAAT' }
+[0mGET / [36m304 [0m0.599 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.283 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.176 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 383,
+  y: 272,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#binBSmUgyFXyLMcAAAAU' }
+[0mGET / [36m304 [0m0.279 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.251 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.173 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 196,
+  y: 192,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#r1oemHOVEZwrL07AAAAV' }
+[0mGET / [36m304 [0m0.268 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.270 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.176 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 149,
+  y: 92,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#fFWf2wkyeQ_7WSPJAAAW' }
+[0mGET / [32m200 [0m0.716 ms - 554[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.280 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.196 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 463,
+  y: 191,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#Tp-0LET3FfHAhdKUAAAX' }
+[0mGET / [36m304 [0m2.010 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.363 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.155 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 244,
+  y: 259,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#qdZts_G3UwtFhJjjAAAY' }
+[0mGET / [32m200 [0m0.534 ms - 566[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.532 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.873 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 397,
+  y: 114,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#GCMMeKuA3aFFeRy0AAAZ' }
+[0mGET / [36m304 [0m0.280 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.494 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.171 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 267,
+  y: 291,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#iJiZyoh5pmglIv28AAAa' }
+[0mGET / [36m304 [0m0.250 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.421 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.176 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 417,
+  y: 175,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#DJjHtZh6vGk9LIOgAAAb' }
+[0mGET / [36m304 [0m0.287 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.279 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.183 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 463,
+  y: 173,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#rYHNpNlhVB7sf1ZNAAAc' }
+[0mGET / [36m304 [0m0.278 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.618 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.379 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 79,
+  y: 116,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#HgOnL_85JAoWNCveAAAd' }
+[0mGET / [36m304 [0m0.879 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m1.379 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.681 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 338,
+  y: 37,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#2wsQeLuNpeCLk8Z5AAAe' }
+[0mGET / [36m304 [0m0.329 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.268 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.186 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 425,
+  y: 61,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#ndT7YEFIvyltQtr-AAAf' }
+[0mGET / [36m304 [0m1.114 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.306 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.224 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 367,
+  y: 278,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#S3V6PtpCM1BLbofmAAAg' }
+[0mGET / [36m304 [0m0.260 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.266 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.314 ms - -[0m
+USER CONNECTED ==============================================
+[0mGET / [36m304 [0m0.267 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.272 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.313 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 280,
+  y: 53,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#W0i7Uvnhv2ssRUcLAAAi' }
+[0mGET / [36m304 [0m0.265 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.331 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.186 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 411,
+  y: 254,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#TB5D9gSclSQxkSwMAAAj' }
+[0mGET / [36m304 [0m0.370 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.264 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.168 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 196,
+  y: 91,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#bGfG_DbNNscmqoTFAAAk' }
+[0mGET / [36m304 [0m0.272 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.320 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.300 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 465,
+  y: 49,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#vQJg_mlAvgAU6GRgAAAl' }
+[0mGET / [36m304 [0m0.250 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.402 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.166 ms - -[0m
+USER CONNECTED ==============================================
+[0mGET / [36m304 [0m0.238 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.601 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.366 ms - -[0m
+USER CONNECTED ==============================================
+[0mGET / [36m304 [0m0.233 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.261 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.408 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 105,
+  y: 354,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#05WVgxfS_1Byv1aSAAAo' }
+[0mGET / [36m304 [0m0.263 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.319 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.210 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 86,
+  y: 160,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#KC3Z0JxsHNUd7U6mAAAp' }
+[0mGET / [36m304 [0m0.271 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m1.444 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.232 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 265,
+  y: 177,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#ogb8b5FdDIGqaLioAAAq' }
+[0mGET / [36m304 [0m0.276 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.492 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.460 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 148,
+  y: 385,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#OkS6X2wMP5yl4RjqAAAr' }
+[0mGET / [36m304 [0m0.247 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.283 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.179 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 326,
+  y: 96,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#qDlW-zNzOsfl_V8FAAAs' }
+[0mGET / [36m304 [0m0.233 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.282 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.238 ms - -[0m
+USER CONNECTED ==============================================
+[0mGET / [36m304 [0m0.243 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m1.596 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.165 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 462,
+  y: 281,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#yLWcXGvP37A84DHwAAAu' }
+[0mGET / [36m304 [0m0.234 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m10.387 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m6.569 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 189,
+  y: 146,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#Rn1-xisNzAYVkIL9AAAv' }
+[0mGET / [36m304 [0m0.239 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.383 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.165 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 364,
+  y: 441,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#sYvcC8kOQfCF3UbRAAAw' }
+[0mGET / [36m304 [0m1.202 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.265 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.169 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 81,
+  y: 189,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#zh__YjJ_EArB2KuPAAAx' }
+[0mGET / [36m304 [0m0.222 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.373 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.165 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 188,
+  y: 144,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#wFbTeoZV26eGgNRkAAAy' }
+[0mGET / [36m304 [0m0.247 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.429 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.517 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 222,
+  y: 151,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#P49jRyXA18kRXZNiAAAz' }
+[0mGET / [36m304 [0m0.231 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m1.287 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.518 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 271,
+  y: 268,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#ZkQw3NrgRcbvgCsMAAA0' }
+[0mGET / [36m304 [0m0.259 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.281 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.185 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 138,
+  y: 20,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#NAhmz4HJjOaiUVoLAAA1' }
+[0mGET / [36m304 [0m0.236 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.307 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.192 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 353,
+  y: 64,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#LHAFiZa9Tji5LoSwAAA2' }
+[0mGET / [36m304 [0m0.241 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m1.083 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m1.011 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 88,
+  y: 205,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#2f_Bdf4p3zjnaHWhAAA3' }
+[0mGET / [36m304 [0m0.267 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.262 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.159 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 34,
+  y: 356,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#M1KbGFHAQp8QbWKrAAA4' }
+[0mGET / [36m304 [0m0.232 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.520 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.326 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 182,
+  y: 170,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#XTCS3AswBhfTk7EBAAA5' }
+[0mGET / [36m304 [0m0.245 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.424 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.171 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 123,
+  y: 183,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#8qiYw0Ph45w1K8X7AAA6' }
+[0mGET / [36m304 [0m0.335 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.259 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.169 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 230,
+  y: 29,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#adJl9eG8qmoKMhRXAAA7' }
+[0mGET / [36m304 [0m0.248 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.280 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.180 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 141,
+  y: 79,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#0GUIuI6CMgJWhW8PAAA8' }
+[0mGET / [36m304 [0m0.228 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.323 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.159 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 381,
+  y: 243,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#tqnvwO8i7yVo7k0UAAA9' }
+USER DISCONNECTED =======================================
+[0mGET / [32m200 [0m1.974 ms - 566[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.444 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.247 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 274,
+  y: 409,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#EwxXZQCnXRGw1orZAAA-' }
+USER DISCONNECTED =======================================
+[0mGET / [36m304 [0m0.301 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.310 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.267 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 64,
+  y: 164,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#sbc_jw9MXRkd2zfUAAA_' }
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+[0mGET / [36m304 [0m0.438 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.524 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.413 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 421,
+  y: 203,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#bZTpby-oq27RvrvgAABA' }
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+[0mGET / [36m304 [0m0.296 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /javascripts/app.js [36m304 [0m0.484 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.404 ms - -[0m
+USER CONNECTED ==============================================
+{ hp: 1,
+  color: 'blue',
+  width: 30,
+  height: 30,
+  x: 191,
+  y: 207,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  canShoot: true,
+  id: '/#RP3ApeQDpgpSANLuAABB' }

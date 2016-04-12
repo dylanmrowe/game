@@ -1,6 +1,13 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  	padding: 50px;
+  	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  	width:900;
+	margin-right:40%;
+	margin-left:auto;
+}
+
+#canvas{
+
 }
 
 a {
