@@ -9197,3 +9197,582 @@ USER CONNECTED ==============================================
 [0mPOST /users/upshot [32m200 [0m1.308 ms - 2[0m
 [0mPOST /users/upshot [32m200 [0m1.323 ms - 2[0m
 [0mPOST /users/upshot [32m200 [0m1.378 ms - 2[0m
+[0mGET /game [36m304 [0m0.584 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.221 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /stylesheets/style.css [36m304 [0m0.193 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m0.584 ms - 13250[0m
+USER CONNECTED ==============================================
+{ kills: 70,
+  deaths: 0,
+  hits: 983,
+  shots: 4430,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.614 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.155 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 61,
+  y: 334,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4430,
+  hits: 983,
+  kills: 70,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#sxABZYMtW8q6HY1CAAB6' }
+[0mPOST /users/upshot [32m200 [0m1.910 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.347 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.330 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.310 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.356 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.356 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.592 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.271 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.256 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.330 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.284 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.363 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.759 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.300 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.397 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.585 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.304 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.291 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.823 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.292 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.259 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.275 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.279 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.251 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.300 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.281 ms - 2[0m
+/#zoHLVODV8NolaHowAAB5 was hit
+[0mPOST /users/uphit [32m200 [0m1.326 ms - 2[0m
+/#zoHLVODV8NolaHowAAB5 was hit
+[0mPOST /users/uphit [32m200 [0m1.298 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.298 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.393 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.767 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.293 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.577 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.727 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.296 ms - 2[0m
+/#zoHLVODV8NolaHowAAB5 was hit
+[0mPOST /users/uphit [32m200 [0m1.317 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.866 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.286 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.259 ms - 2[0m
+/#zoHLVODV8NolaHowAAB5 was hit
+[0mPOST /users/uphit [32m200 [0m1.313 ms - 2[0m
+/#zoHLVODV8NolaHowAAB5 was hit
+[0mPOST /users/uphit [32m200 [0m1.236 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.266 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.287 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.343 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.355 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.258 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.353 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.276 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.275 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.305 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.264 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.684 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.251 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.262 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.529 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.304 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.441 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.327 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.738 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.257 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.337 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.397 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.409 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.625 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.610 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.273 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.286 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.261 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.500 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.417 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.340 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.260 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.318 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.319 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.235 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.283 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.328 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.530 ms - 2[0m
+/#sxABZYMtW8q6HY1CAAB6 was hit
+[0mPOST /users/uphit [32m200 [0m1.267 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.330 ms - 2[0m
+/#sxABZYMtW8q6HY1CAAB6 was hit
+[0mPOST /users/uphit [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.304 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.333 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.325 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.261 ms - 2[0m
+/#sxABZYMtW8q6HY1CAAB6 was hit
+[0mPOST /users/uphit [32m200 [0m1.228 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.419 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.253 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.262 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.383 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.321 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.272 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.228 ms - 2[0m
+/#sxABZYMtW8q6HY1CAAB6 was hit
+[0mPOST /users/uphit [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.369 ms - 2[0m
+/#sxABZYMtW8q6HY1CAAB6 was hit
+/#sxABZYMtW8q6HY1CAAB6 died
+[0mPOST /users/uphit [32m200 [0m1.962 ms - 2[0m
+[0mPOST /users/upkill [32m200 [0m1.022 ms - 2[0m
+/#sxABZYMtW8q6HY1CAAB6
+[ { name: 'dummy',
+    hp: 0,
+    color: 'blue',
+    width: 8,
+    height: 8,
+    x: 148,
+    y: 181,
+    shots: [ [Object] ],
+    speedX: 0,
+    speedY: 0,
+    shotcount: 4479,
+    hits: 988,
+    kills: 71,
+    deaths: 0,
+    killstreak: 0,
+    canShoot: false,
+    id: '/#zoHLVODV8NolaHowAAB5' },
+  '-1': { name: 'dummy',
+    hp: 0,
+    color: 'blue',
+    width: 8,
+    height: 8,
+    x: 262,
+    y: 407,
+    shots: [],
+    speedX: 0,
+    speedY: 0,
+    shotcount: 3465,
+    hits: 958,
+    kills: 67,
+    deaths: 0,
+    killstreak: 0,
+    canShoot: true,
+    id: '/#bRDOgyKIBXhVG9ujAABs' } ]
+[0mPOST /users/upshot [32m200 [0m1.306 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.275 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.683 ms - 2[0m
+[0mGET /game [36m304 [0m0.522 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.377 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.324 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /stylesheets/style.css [36m304 [0m0.189 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 71,
+  deaths: 0,
+  hits: 993,
+  shots: 4520,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.060 ms - 95[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 40,
+  y: 423,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4520,
+  hits: 993,
+  kills: 71,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#bFhkFkiPtILJpXXKAAB7' }
+[0mGET /game [36m304 [0m0.359 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.207 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.158 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.146 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 71,
+  deaths: 0,
+  hits: 993,
+  shots: 4520,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.102 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.202 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 121,
+  y: 323,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4520,
+  hits: 993,
+  kills: 71,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#J8XEcuVqcG2XxilQAAB8' }
+[0mPOST /users/upshot [32m200 [0m2.185 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.378 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.272 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.331 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.498 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.569 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.442 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.707 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.456 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.566 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.436 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.652 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.462 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.503 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.018 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.449 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.678 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.292 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.395 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.502 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.625 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.306 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.305 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.301 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.292 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.381 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.564 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.323 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.343 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.417 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.338 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.356 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.459 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.382 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.490 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.368 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.300 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.334 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.276 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.355 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.283 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.704 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.307 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.476 ms - 2[0m
+/#bFhkFkiPtILJpXXKAAB7 was hit
+[0mPOST /users/uphit [32m200 [0m1.518 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.373 ms - 2[0m
+/#bFhkFkiPtILJpXXKAAB7 was hit
+[0mPOST /users/uphit [32m200 [0m1.443 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.342 ms - 2[0m
+/#bFhkFkiPtILJpXXKAAB7 was hit
+[0mPOST /users/uphit [32m200 [0m1.300 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.326 ms - 2[0m
+/#bFhkFkiPtILJpXXKAAB7 was hit
+[0mPOST /users/uphit [32m200 [0m1.313 ms - 2[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.935 ms - -[0m
+[0mGET /lib/angular/angular.min.js.map [36m304 [0m0.307 ms - -[0m
+[0mGET /game [36m304 [0m1.221 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.204 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /javascripts/app.js [36m304 [0m0.182 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.177 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 71,
+  deaths: 0,
+  hits: 997,
+  shots: 4570,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m3.443 ms - 95[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 354,
+  y: 399,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4570,
+  hits: 997,
+  kills: 71,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#3Q2hhUY4y06SPhXSAAB9' }
+[0mGET /stylesheets/style.css [36m304 [0m0.208 ms - -[0m
+[0mGET /lib/angular/angular.min.js.map [36m304 [0m0.199 ms - -[0m
+[0mGET /game [32m200 [0m2.069 ms - 2247[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.428 ms - 891[0m
+[0mGET /javascripts/app.js [32m200 [0m0.290 ms - 13250[0m
+[0mGET /lib/angular/angular.min.js [32m200 [0m0.548 ms - 154333[0m
+USER CONNECTED ==============================================
+[0mGET /users/verify [32m206 [0m0.333 ms - 15[0m
+[0mGET /img/graph.png [32m200 [0m0.313 ms - 8158[0m
+[0mGET /login [32m200 [0m0.547 ms - 2901[0m
+[0mGET /stylesheets/login.css [32m200 [0m0.325 ms - 8399[0m
+[0mGET /javascripts/login.js [32m200 [0m0.434 ms - 3817[0m
+[0mGET /img/icon.png [32m200 [0m0.331 ms - 743[0m
+[0mPOST /users/login [32m204 [0m4.348 ms - -[0m
+[0mPOST /users/login [32m204 [0m1.074 ms - -[0m
+{ user: 'jacob',
+  passHash: 'sha1$7d701547$1$08439cf37859af89f69572810e39212f92ea20fb' }
+[0mPOST /users/add [32m200 [0m8.659 ms - 167[0m
+[0mGET /game [36m304 [0m0.374 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.314 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.280 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.252 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 0,
+  deaths: 0,
+  hits: 0,
+  shots: 0,
+  user: 'jacob',
+  _id: 570d124bd3f248706a947936 }
+[0mGET /users/verify [32m200 [0m1.312 ms - 89[0m
+[0mGET /favicon.ico [33m404 [0m303.229 ms - 1818[0m
+{ name: 'jacob',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 413,
+  y: 24,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 0,
+  hits: 0,
+  kills: 0,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#QmlrRGuLz3qKNXDHAAB_' }
+USER DISCONNECTED =======================================
+[0mPOST /users/upshot [32m200 [0m2.115 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.639 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.529 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.653 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.775 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.299 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.350 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.480 ms - 2[0m
+/#J8XEcuVqcG2XxilQAAB8 was hit
+[0mPOST /users/uphit [32m200 [0m1.603 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m2.004 ms - 2[0m
+/#J8XEcuVqcG2XxilQAAB8 was hit
+/#J8XEcuVqcG2XxilQAAB8 was hit
+[0mPOST /users/upshot [32m200 [0m2.091 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m2.451 ms - 2[0m
+/#J8XEcuVqcG2XxilQAAB8 was hit
+[0mPOST /users/uphit [32m200 [0m1.112 ms - 2[0m
+/#J8XEcuVqcG2XxilQAAB8 was hit
+[0mPOST /users/upshot [32m200 [0m1.803 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m2.152 ms - 2[0m
+/#J8XEcuVqcG2XxilQAAB8 was hit
+[0mPOST /users/uphit [32m200 [0m9.438 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m10.416 ms - 2[0m
+/#J8XEcuVqcG2XxilQAAB8 was hit
+[0mPOST /users/uphit [32m200 [0m2.085 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m3.052 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.544 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.455 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.397 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.671 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.780 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.150 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.115 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.738 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.997 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.630 ms - 2[0m
+[0mGET /game [36m304 [0m0.762 ms - -[0m
+[0mPOST /users/upshot [32m200 [0m2.054 ms - 2[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.413 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.262 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.138 ms - -[0m
+[0mPOST /users/upshot [32m200 [0m1.582 ms - 2[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.601 ms - 891[0m
+[0mPOST /users/upshot [32m200 [0m1.842 ms - 2[0m
+USER CONNECTED ==============================================
+{ kills: 0,
+  deaths: 0,
+  hits: 7,
+  shots: 16,
+  user: 'jacob',
+  _id: 570d124bd3f248706a947936 }
+[0mGET /users/verify [32m200 [0m1.457 ms - 90[0m
+[0mGET /img/graph.png [36m304 [0m0.293 ms - -[0m
+[0mPOST /users/upshot [32m200 [0m1.539 ms - 2[0m
+{ name: 'jacob',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 45,
+  y: 389,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 16,
+  hits: 7,
+  kills: 0,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#5Be4OjTf1_T9B2H8AACA' }
+[0mPOST /users/upshot [32m200 [0m1.526 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.619 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m3.673 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.540 ms - 2[0m
+[0mGET /game [36m304 [0m0.635 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.262 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.189 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.161 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.654 ms - 891[0m
+USER CONNECTED ==============================================
+{ kills: 71,
+  deaths: 0,
+  hits: 997,
+  shots: 4584,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.784 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.224 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 44,
+  y: 205,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4584,
+  hits: 997,
+  kills: 71,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#6vVLoJ5mB4p03BFJAACB' }
+USER DISCONNECTED =======================================
+[0mGET /stylesheets/style.css [36m304 [0m0.253 ms - -[0m
+[0mGET /lib/angular/angular.min.js.map [36m304 [0m0.211 ms - -[0m
+[0mGET /game [36m304 [0m0.395 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.233 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.175 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.269 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 0,
+  deaths: 0,
+  hits: 7,
+  shots: 16,
+  user: 'jacob',
+  _id: 570d124bd3f248706a947936 }
+[0mGET /users/verify [36m304 [0m1.714 ms - -[0m
+[0mGET /img/graph.png [36m304 [0m0.194 ms - -[0m
+{ name: 'jacob',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 394,
+  y: 421,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 16,
+  hits: 7,
+  kills: 0,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#D_1PtB6MFNN5qnFqAACC' }
+[0mGET /lib/angular/angular.min.js.map [36m304 [0m0.373 ms - -[0m
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js.map [36m304 [0m0.292 ms - -[0m
+[0mPOST /users/upshot [32m200 [0m2.120 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.480 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.404 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.424 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.328 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.602 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.341 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.521 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.476 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.415 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.507 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.614 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.322 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.339 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.345 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.777 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.430 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.327 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.365 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.337 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.373 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.389 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.440 ms - 2[0m
+[0mGET /game [36m304 [0m1.637 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.319 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.200 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.172 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.657 ms - 891[0m
+USER CONNECTED ==============================================
+{ kills: 71,
+  deaths: 0,
+  hits: 997,
+  shots: 4608,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.913 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.208 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 80,
+  y: 173,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4608,
+  hits: 997,
+  kills: 71,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#UWN1BQt08SGouyehAACD' }
