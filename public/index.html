@@ -31,10 +31,15 @@
             <div class="row-fluid">
                 <div class="panel panel-b" id="" background-color="black">
                     <div class="panel-heading center">
-                        <h3>Leaderboard</h3>
+                        <h3>Stats</h3>
                     </div>
-                    <div id="userkillstreak">
-                        Your Killstreak: {{user.killstreak}}
+                    <div id="userstats">
+                        <h4>{{user.name}} </h4>
+                        <p>
+                            <br> Your Killstreak: {{user.killstreak}}
+                            <br> Your Kills: {{user.kills}}
+                            <br> Your Deaths: {{user.deaths}}
+                        </p>
                     </div>
                     <div class="panel-body" id="players">
 

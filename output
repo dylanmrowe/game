@@ -7367,3 +7367,1833 @@ USER CONNECTED ==============================================
 [0mPOST /users/upshot [32m200 [0m1.335 ms - 2[0m
 [0mPOST /users/upshot [32m200 [0m1.312 ms - 2[0m
 [0mPOST /users/upshot [32m200 [0m1.287 ms - 2[0m
+[0mGET /game [36m304 [0m0.852 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.250 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m0.625 ms - 13211[0m
+USER DISCONNECTED =======================================
+[0mGET /stylesheets/style.css [36m304 [0m0.476 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.487 ms - 896[0m
+USER CONNECTED ==============================================
+{ kills: 66,
+  deaths: 0,
+  hits: 946,
+  shots: 3385,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.710 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.225 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 325,
+  y: 433,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 3385,
+  hits: 946,
+  kills: 66,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#ooj3xZ6i049xmJHQAABn' }
+[0mPOST /users/upshot [32m200 [0m1.829 ms - 2[0m
+/#ooj3xZ6i049xmJHQAABn was hit
+[0mPOST /users/uphit [32m200 [0m1.612 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.533 ms - 2[0m
+/#ooj3xZ6i049xmJHQAABn was hit
+[0mPOST /users/uphit [32m200 [0m1.666 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.250 ms - 2[0m
+/#ooj3xZ6i049xmJHQAABn was hit
+[0mPOST /users/upshot [32m200 [0m1.537 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.214 ms - 2[0m
+/#ooj3xZ6i049xmJHQAABn was hit
+[0mPOST /users/upshot [32m200 [0m1.454 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.205 ms - 2[0m
+/#ooj3xZ6i049xmJHQAABn was hit
+[0mPOST /users/uphit [32m200 [0m1.518 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.413 ms - 2[0m
+/#ooj3xZ6i049xmJHQAABn was hit
+[0mPOST /users/upshot [32m200 [0m1.477 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.177 ms - 2[0m
+/#ooj3xZ6i049xmJHQAABn was hit
+[0mPOST /users/upshot [32m200 [0m1.568 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.131 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.852 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.560 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.508 ms - 2[0m
+[0mGET /game [36m304 [0m0.488 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.273 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m0.455 ms - 13211[0m
+USER DISCONNECTED =======================================
+[0mGET /stylesheets/style.css [36m304 [0m0.278 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 66,
+  deaths: 0,
+  hits: 953,
+  shots: 3396,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.311 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.179 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 27,
+  y: 16,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 3396,
+  hits: 953,
+  kills: 66,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#CtfChee55Ha2N8NtAABo' }
+[0mPOST /users/upshot [32m200 [0m1.519 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.498 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.608 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.487 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.576 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.483 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.729 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.514 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.579 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.435 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.408 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.664 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.501 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.487 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.607 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.868 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.460 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.345 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.283 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.676 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.477 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.570 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.522 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.455 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.474 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.503 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.488 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.399 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.444 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.442 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.494 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.881 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.509 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.473 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.772 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.318 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.326 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.275 ms - 2[0m
+/#CtfChee55Ha2N8NtAABo was hit
+[0mPOST /users/uphit [32m200 [0m1.395 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.299 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.336 ms - 2[0m
+/#CtfChee55Ha2N8NtAABo was hit
+[0mPOST /users/uphit [32m200 [0m1.186 ms - 2[0m
+/#CtfChee55Ha2N8NtAABo was hit
+[0mPOST /users/uphit [32m200 [0m1.323 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.279 ms - 2[0m
+/#CtfChee55Ha2N8NtAABo was hit
+[0mPOST /users/uphit [32m200 [0m1.496 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.681 ms - 2[0m
+/#CtfChee55Ha2N8NtAABo was hit
+/#CtfChee55Ha2N8NtAABo died
+[0mPOST /users/uphit [32m200 [0m1.317 ms - 2[0m
+[0mPOST /users/upkill [32m200 [0m1.310 ms - 2[0m
+/#CtfChee55Ha2N8NtAABo
+[ { name: 'dummy',
+    hp: -2,
+    color: 'blue',
+    width: -16,
+    height: -16,
+    x: 110,
+    y: 23,
+    shots: [],
+    speedX: 0,
+    speedY: 0,
+    shotcount: 3408,
+    hits: 951,
+    kills: 67,
+    deaths: 0,
+    killstreak: 0,
+    canShoot: true,
+    id: '/#ooj3xZ6i049xmJHQAABn' },
+  '-1': { name: 'dummy',
+    hp: 5,
+    color: 'blue',
+    width: 40,
+    height: 40,
+    x: 314,
+    y: 327,
+    shots: [],
+    speedX: 0,
+    speedY: 0,
+    shotcount: 3190,
+    hits: 936,
+    kills: 66,
+    deaths: 0,
+    killstreak: 0,
+    canShoot: true,
+    id: '/#XfCNJe1SXtbJJDXoAABk' } ]
+[0mGET /game [36m304 [0m0.494 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.235 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /javascripts/app.js [36m304 [0m0.203 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.155 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.345 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 67,
+  deaths: 0,
+  hits: 958,
+  shots: 3438,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.362 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.237 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 169,
+  y: 382,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 3438,
+  hits: 958,
+  kills: 67,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#iSJjeAD9FChqSpiAAABp' }
+[0mPOST /users/upshot [32m200 [0m1.477 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.690 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.378 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.800 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.436 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.365 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.408 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.365 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.591 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.343 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.346 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.398 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.364 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.604 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.314 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.265 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.306 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.358 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.388 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.650 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.367 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.577 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.343 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.614 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.346 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.659 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.338 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.634 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.402 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.390 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.392 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.656 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.332 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.375 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.338 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.333 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.266 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.310 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.712 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.278 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.313 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.710 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.358 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.377 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.310 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.361 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.285 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.293 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.357 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.326 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.118 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.290 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.333 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.304 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.279 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.378 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.345 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.355 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.275 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.350 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.291 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.299 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.304 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.574 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.308 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.281 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.358 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.268 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.281 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.296 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.362 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.681 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.293 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.293 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.274 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.272 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.435 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.301 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.332 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.296 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.404 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.278 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.280 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.300 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.274 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.338 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.264 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.292 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.343 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.380 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.287 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.312 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.282 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.317 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.334 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.290 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.276 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.673 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.309 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.322 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.325 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.266 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.775 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.329 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.268 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.290 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.288 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.293 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.331 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.305 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.291 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.304 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.351 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.379 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.301 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.438 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.284 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.060 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.306 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.581 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.263 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.278 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.259 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.271 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.415 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.300 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m3.671 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.177 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.316 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.322 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.373 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.281 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.292 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.252 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.252 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.286 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.296 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.366 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.274 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.377 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.296 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.312 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.326 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.361 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.324 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.259 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.279 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.256 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m4.067 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.288 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.474 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.291 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.378 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.298 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.302 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.300 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.267 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.257 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.253 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.330 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.463 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.266 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.390 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.272 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.260 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.275 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.284 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.258 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.284 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.308 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.305 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.293 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.397 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.361 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.286 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.353 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.319 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.302 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.301 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.334 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.285 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.342 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.350 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.306 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.380 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.361 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.793 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.321 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.338 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.244 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.257 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.268 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.332 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.267 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.280 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.258 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.384 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.307 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.299 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.256 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.386 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.315 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.359 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.266 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.280 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.282 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.244 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.420 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.287 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.295 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.249 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.232 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.316 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.275 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.264 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.234 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.275 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.403 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.346 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.338 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.286 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.257 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.347 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.293 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.262 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.295 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.298 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.313 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.250 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.335 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.276 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.261 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.305 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.404 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.293 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.267 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.328 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.325 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.283 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.315 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.301 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.462 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.278 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.264 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.332 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.314 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.328 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.288 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.273 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.281 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.307 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.275 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.423 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.316 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.368 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.327 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.315 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.370 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.340 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.287 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.280 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.259 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.370 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.377 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.335 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.880 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.284 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.271 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.413 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.283 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.276 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.330 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.918 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.307 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.302 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.263 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.316 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.286 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.356 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.434 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.948 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.238 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.249 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.230 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.252 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.290 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.295 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.861 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.251 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.250 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.340 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.290 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.260 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.311 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.279 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.832 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.259 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.255 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.270 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.285 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.292 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.334 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.834 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.292 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.276 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.354 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.279 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.304 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.291 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.316 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.846 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.238 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.261 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.260 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.313 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.353 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.288 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.364 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.812 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.279 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.325 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.263 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.262 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.267 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.260 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.272 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.313 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.342 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.363 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.348 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.273 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.246 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.369 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.261 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.288 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.254 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.334 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.286 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.258 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.255 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.408 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.528 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.622 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.489 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.626 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.430 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.511 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.555 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.414 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.498 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.427 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.397 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.346 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.465 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.372 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.519 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.392 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.412 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.471 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.499 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.513 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.469 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.515 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.448 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.384 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.391 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.461 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.437 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.456 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.464 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.402 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.364 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.007 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.701 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.573 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.494 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.749 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.715 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.382 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.284 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.315 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.350 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.341 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.276 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.337 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.280 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.328 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.312 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.349 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.354 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.317 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.293 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.677 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.298 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.300 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.325 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.360 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.290 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.397 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.299 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.310 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.281 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.299 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.257 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.348 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.295 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.340 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.324 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.270 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.309 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.269 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.290 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.558 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.189 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.349 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.359 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.354 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.377 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.344 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.365 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.411 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.401 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.413 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.319 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.316 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.448 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.314 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.284 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.338 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.299 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.342 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.338 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.298 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.288 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.319 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.333 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.244 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.302 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.314 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.329 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.429 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.372 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.282 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.290 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.307 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.272 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.321 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.326 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.282 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.306 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.285 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.329 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.323 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.304 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.326 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.987 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.314 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.268 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.255 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.304 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.309 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.305 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.378 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.323 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.358 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.354 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.357 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.328 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.282 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.306 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.246 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.278 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.268 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.278 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.372 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.325 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.295 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.284 ms - 2[0m
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER CONNECTED ==============================================
+USER CONNECTED ==============================================
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 145,
+  y: 147,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 3385,
+  hits: 946,
+  kills: 66,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#MdZNhgebKEohkosgAABr' }
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 130,
+  y: 455,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 3438,
+  hits: 958,
+  kills: 67,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#usBMXgUGmpDQ8f9NAABq' }
+USER DISCONNECTED =======================================
+USER DISCONNECTED =======================================
+USER CONNECTED ==============================================
+USER CONNECTED ==============================================
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 337,
+  y: 154,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 3385,
+  hits: 946,
+  kills: 66,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#WaHsKVyp00RYgOSUAABt' }
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 352,
+  y: 407,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 3438,
+  hits: 958,
+  kills: 67,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#bRDOgyKIBXhVG9ujAABs' }
+/#bRDOgyKIBXhVG9ujAABs was hit
+[0mGET /game [36m304 [0m6.614 ms - -[0m
+[0mPOST /users/upshot [32m200 [0m14.030 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m2.793 ms - 2[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.371 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.485 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.542 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /stylesheets/style.css [32m200 [0m1.971 ms - 896[0m
+USER CONNECTED ==============================================
+{ kills: 67,
+  deaths: 0,
+  hits: 959,
+  shots: 3959,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m3.724 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.236 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 312,
+  y: 149,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 3959,
+  hits: 959,
+  kills: 67,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#DRQ4BvpfaJBpTEVRAABu' }
+[0mPOST /users/upshot [32m200 [0m1.679 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.368 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.351 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.267 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.344 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.408 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.362 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.430 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.471 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.616 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.792 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.670 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.716 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.263 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.264 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.272 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.365 ms - 2[0m
+/#bRDOgyKIBXhVG9ujAABs was hit
+[0mPOST /users/uphit [32m200 [0m1.365 ms - 2[0m
+/#bRDOgyKIBXhVG9ujAABs was hit
+[0mPOST /users/uphit [32m200 [0m1.509 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.505 ms - 2[0m
+/#bRDOgyKIBXhVG9ujAABs was hit
+[0mPOST /users/uphit [32m200 [0m1.461 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.340 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.263 ms - 2[0m
+/#bRDOgyKIBXhVG9ujAABs was hit
+/#bRDOgyKIBXhVG9ujAABs died
+[0mPOST /users/uphit [32m200 [0m1.328 ms - 2[0m
+[0mPOST /users/upkill [32m200 [0m2.944 ms - 2[0m
+/#bRDOgyKIBXhVG9ujAABs
+[ { name: 'dummy',
+    hp: 5,
+    color: 'blue',
+    width: 40,
+    height: 40,
+    x: 272,
+    y: 277,
+    shots: [ [Object] ],
+    speedX: -4,
+    speedY: 0,
+    shotcount: 3980,
+    hits: 963,
+    kills: 68,
+    deaths: 0,
+    killstreak: 0,
+    canShoot: true,
+    id: '/#DRQ4BvpfaJBpTEVRAABu' },
+  '-1': { name: 'dummy',
+    hp: 5,
+    color: 'blue',
+    width: 40,
+    height: 40,
+    x: 130,
+    y: 455,
+    shots: [],
+    speedX: 0,
+    speedY: 0,
+    shotcount: 3438,
+    hits: 958,
+    kills: 67,
+    deaths: 0,
+    killstreak: 0,
+    canShoot: true,
+    id: '/#bRDOgyKIBXhVG9ujAABs' } ]
+[0mPOST /users/upshot [32m200 [0m1.461 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.249 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.550 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.279 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.309 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.511 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.392 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.462 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.469 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.323 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.602 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.932 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.334 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.360 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.678 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.270 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.274 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.710 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.270 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.586 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.342 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.489 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.308 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.264 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.302 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.415 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.317 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.553 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.446 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.712 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.410 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.471 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.514 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.770 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.307 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.671 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.629 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.382 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.827 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m3.065 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.363 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.622 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.368 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.309 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.434 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.302 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.359 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.308 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.904 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.291 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.255 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.383 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.336 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.335 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.335 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.302 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.318 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.342 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.311 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.431 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.319 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.261 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.670 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.373 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.485 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.291 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.557 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.456 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m4.568 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.713 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.089 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.495 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.477 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.453 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.818 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.594 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.476 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.635 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.564 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.481 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.523 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.397 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.502 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.920 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.501 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.323 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.865 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.362 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.262 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.264 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.666 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.354 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.255 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.037 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.318 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.507 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.758 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.378 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.524 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.266 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.292 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.293 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.371 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.268 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.402 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.454 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.346 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.273 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.262 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.285 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.446 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.423 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.254 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.477 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.282 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.306 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.281 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.755 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.259 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.309 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.255 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.343 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.310 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.296 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.295 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.598 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.579 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.259 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.350 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.284 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.914 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.287 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.360 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.334 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.388 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.360 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.361 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.781 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.366 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.417 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.454 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.516 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.273 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.270 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.516 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.402 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.658 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.440 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.253 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.844 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.428 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.295 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.847 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.571 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.419 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.285 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.334 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.186 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.743 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.747 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.259 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.544 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.639 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.315 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.358 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.245 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.759 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.788 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.354 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.305 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.443 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.301 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.319 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.407 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.351 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.457 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.371 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.257 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.618 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.726 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.231 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.303 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.616 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.435 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.373 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.854 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.360 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.346 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.506 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.493 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.379 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.635 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.267 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.269 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.269 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.364 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.346 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.592 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.237 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.337 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.256 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.494 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.287 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.307 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.270 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.411 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.247 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.398 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.274 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.262 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.261 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.388 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.251 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.249 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.534 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.307 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.340 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.273 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.353 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.304 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.235 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.240 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.249 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.411 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.495 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.667 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.364 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.263 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.466 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.311 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.374 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.278 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.347 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.290 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.348 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.735 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.243 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.997 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.608 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.908 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.305 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.425 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.274 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.271 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.336 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.311 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.313 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.677 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.643 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.849 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.444 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.343 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.351 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m3.911 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.331 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.414 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.732 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.441 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.272 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.695 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.468 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.616 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.349 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.954 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.260 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.307 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.386 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.515 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.261 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.262 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.240 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.312 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.241 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.244 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.850 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.617 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.368 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.335 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.286 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.680 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.526 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.792 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.585 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.490 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.355 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.329 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.277 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.402 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.459 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.468 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.550 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.241 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.270 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.801 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.529 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.488 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.615 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.394 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.364 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.627 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.258 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.284 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.247 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.697 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.684 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.948 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.449 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.960 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.599 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.712 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.523 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.608 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.269 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.443 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.419 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.617 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.552 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.621 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.285 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.306 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.392 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.379 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.269 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.230 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.500 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.385 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.811 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.217 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.645 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.320 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.359 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.648 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.632 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.443 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.355 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.643 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.400 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.318 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.225 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.864 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.607 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.416 ms - 2[0m
+[0mGET /game [32m200 [0m1.101 ms - 2120[0m
+USER DISCONNECTED =======================================
+[0mGET /javascripts/app.js [36m304 [0m0.254 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.165 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.513 ms - 896[0m
+USER CONNECTED ==============================================
+{ kills: 68,
+  deaths: 0,
+  hits: 963,
+  shots: 4340,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m2.397 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.188 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 435,
+  y: 310,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4340,
+  hits: 963,
+  kills: 68,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#nkBn6HPbF-Cn5gPbAABv' }
+[0mGET /game [32m200 [0m0.669 ms - 2162[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.242 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.229 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /stylesheets/style.css [36m304 [0m0.214 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 68,
+  deaths: 0,
+  hits: 963,
+  shots: 4340,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [36m304 [0m1.523 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 237,
+  y: 181,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4340,
+  hits: 963,
+  kills: 68,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#Fw8BhQKLHu8S608hAABw' }
+[0mGET /game [32m200 [0m4.847 ms - 2247[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.820 ms - -[0m
+[0mGET /stylesheets/style.css [0m- [0m- ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m3.337 ms - 13490[0m
+USER DISCONNECTED =======================================
+[0mGET /stylesheets/style.css [32m200 [0m0.416 ms - 891[0m
+USER CONNECTED ==============================================
+{ kills: 68,
+  deaths: 0,
+  hits: 963,
+  shots: 4340,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m9.206 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.201 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 363,
+  y: 32,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4340,
+  hits: 963,
+  kills: 68,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#knZqMPARgg2VX4IjAABx' }
+[0mPOST /users/upshot [32m200 [0m6.853 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.551 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.459 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.432 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.322 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.301 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.813 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.079 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.659 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.039 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.619 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.193 ms - 2[0m
+/#Fw8BhQKLHu8S608hAABw was hit
+/#Fw8BhQKLHu8S608hAABw was hit
+[0mPOST /users/upshot [32m200 [0m1.655 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.381 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.042 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m2.231 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.781 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m2.557 ms - 2[0m
+/#Fw8BhQKLHu8S608hAABw was hit
+/#Fw8BhQKLHu8S608hAABw was hit
+/#Fw8BhQKLHu8S608hAABw was hit
+[0mPOST /users/upshot [32m200 [0m1.551 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.448 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.091 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.568 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.182 ms - 2[0m
+/#Fw8BhQKLHu8S608hAABw was hit
+/#Fw8BhQKLHu8S608hAABw was hit
+[0mPOST /users/uphit [32m200 [0m1.408 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.688 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.616 ms - 2[0m
+/#Fw8BhQKLHu8S608hAABw was hit
+[0mPOST /users/upshot [32m200 [0m1.451 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.285 ms - 2[0m
+/#Fw8BhQKLHu8S608hAABw was hit
+[0mPOST /users/uphit [32m200 [0m1.827 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.683 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m2.136 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.244 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.272 ms - 2[0m
+/#Fw8BhQKLHu8S608hAABw was hit
+/#Fw8BhQKLHu8S608hAABw was hit
+/#Fw8BhQKLHu8S608hAABw was hit
+/#Fw8BhQKLHu8S608hAABw died
+/#Fw8BhQKLHu8S608hAABw was hit
+[0mPOST /users/uphit [32m200 [0m2.027 ms - 2[0m
+[0mPOST /users/upkill [32m200 [0m3.122 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.438 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.314 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.337 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.044 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.247 ms - 2[0m
+/#Fw8BhQKLHu8S608hAABw was hit
+/#Fw8BhQKLHu8S608hAABw was hit
+[0mPOST /users/upshot [32m200 [0m1.827 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.577 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m1.861 ms - 2[0m
+/#Fw8BhQKLHu8S608hAABw was hit
+[0mPOST /users/upshot [32m200 [0m1.323 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m6.946 ms - 2[0m
+[0mPOST /users/uphit [32m200 [0m7.865 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m8.599 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m5.743 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.302 ms - 2[0m
+/#Fw8BhQKLHu8S608hAABw
+[ { name: 'dummy',
+    hp: 5,
+    color: 'blue',
+    width: 40,
+    height: 40,
+    x: 443,
+    y: 228,
+    shots: 
+     [ [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object],
+       [Object] ],
+    speedX: 0,
+    speedY: 0,
+    shotcount: 4372,
+    hits: 979,
+    kills: 69,
+    deaths: 0,
+    killstreak: 0,
+    canShoot: true,
+    id: '/#knZqMPARgg2VX4IjAABx' },
+  '-1': { name: 'dummy',
+    hp: 0,
+    color: 'blue',
+    width: 8,
+    height: 8,
+    x: 262,
+    y: 407,
+    shots: [],
+    speedX: 0,
+    speedY: 0,
+    shotcount: 3465,
+    hits: 958,
+    kills: 67,
+    deaths: 0,
+    killstreak: 0,
+    canShoot: true,
+    id: '/#bRDOgyKIBXhVG9ujAABs' } ]
+[0mGET /game [36m304 [0m0.523 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.182 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.146 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.140 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.409 ms - 891[0m
+USER CONNECTED ==============================================
+{ kills: 69,
+  deaths: 0,
+  hits: 978,
+  shots: 4368,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.423 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.201 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 351,
+  y: 426,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4368,
+  hits: 978,
+  kills: 69,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#Xw72y4_B9nQDccdaAABy' }
+[0mGET /game [36m304 [0m0.348 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.202 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.148 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.159 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 69,
+  deaths: 0,
+  hits: 978,
+  shots: 4368,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [36m304 [0m1.050 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 7,
+  y: 138,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4368,
+  hits: 978,
+  kills: 69,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#5x9Iim120fSnJimxAABz' }
+[0mGET /game [36m304 [0m0.606 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.202 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.136 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.130 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 69,
+  deaths: 0,
+  hits: 978,
+  shots: 4368,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [36m304 [0m1.180 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 112,
+  y: 52,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4368,
+  hits: 978,
+  kills: 69,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#EPeC8ZDveDw7D2s2AAB0' }
+[0mGET /game [36m304 [0m0.543 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.403 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.163 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.202 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 69,
+  deaths: 0,
+  hits: 978,
+  shots: 4368,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [36m304 [0m1.080 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 168,
+  y: 45,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4368,
+  hits: 978,
+  kills: 69,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#SGgig-0G8rrDM_dIAAB1' }
+[0mGET /game [32m200 [0m0.566 ms - 2247[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.247 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m0.377 ms - 13490[0m
+[0mGET /javascripts/app.js [36m304 [0m0.253 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.339 ms - 891[0m
+USER CONNECTED ==============================================
+{ kills: 69,
+  deaths: 0,
+  hits: 978,
+  shots: 4368,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.149 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.159 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 114,
+  y: 52,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4368,
+  hits: 978,
+  kills: 69,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#iPNOeDnJDNOZnUgJAAB2' }
+[0mGET /game [36m304 [0m0.359 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.351 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.156 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /stylesheets/style.css [36m304 [0m0.419 ms - -[0m
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.395 ms - -[0m
+[0mGET /javascripts/app.js [36m304 [0m0.249 ms - -[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.409 ms - 891[0m
+USER CONNECTED ==============================================
+{ kills: 69,
+  deaths: 0,
+  hits: 978,
+  shots: 4368,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [36m304 [0m1.187 ms - -[0m
+[0mGET /img/graph.png [36m304 [0m0.187 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 31,
+  y: 199,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4368,
+  hits: 978,
+  kills: 69,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#hmpJCMJHdtluT9vlAAB3' }
+[0mGET /game [36m304 [0m0.348 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.224 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m0.397 ms - 13250[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.195 ms - -[0m
+USER CONNECTED ==============================================
+{ kills: 69,
+  deaths: 0,
+  hits: 978,
+  shots: 4368,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [36m304 [0m1.203 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 209,
+  y: 0,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4368,
+  hits: 978,
+  kills: 69,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#xRcxbC1Sx77UbcTyAAB4' }
+[0mPOST /users/upshot [32m200 [0m1.463 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.438 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m2.298 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.385 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.352 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.297 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.325 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.345 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.618 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.359 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.684 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.433 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.319 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.352 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.308 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.356 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.665 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.323 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.344 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.292 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.264 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.343 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.290 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.415 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.495 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.450 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.308 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.358 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.431 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.358 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.745 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.346 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.295 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.343 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.310 ms - 2[0m
+/#hmpJCMJHdtluT9vlAAB3 was hit
+[0mPOST /users/uphit [32m200 [0m1.351 ms - 2[0m
+/#hmpJCMJHdtluT9vlAAB3 was hit
+[0mPOST /users/uphit [32m200 [0m1.368 ms - 2[0m
+/#hmpJCMJHdtluT9vlAAB3 was hit
+[0mPOST /users/uphit [32m200 [0m1.347 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.313 ms - 2[0m
+/#hmpJCMJHdtluT9vlAAB3 was hit
+[0mPOST /users/uphit [32m200 [0m1.315 ms - 2[0m
+[0mGET /game [36m304 [0m0.340 ms - -[0m
+USER DISCONNECTED =======================================
+[0mGET /lib/angular/angular.min.js [36m304 [0m0.226 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.303 ms - -[0m
+[0mGET /javascripts/app.js [32m200 [0m0.649 ms - 13250[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.369 ms - 891[0m
+USER CONNECTED ==============================================
+{ kills: 69,
+  deaths: 0,
+  hits: 982,
+  shots: 4403,
+  user: 'dummy',
+  _id: 570c563506f5206b67374dcb }
+[0mGET /users/verify [32m200 [0m1.222 ms - 95[0m
+[0mGET /img/graph.png [36m304 [0m0.187 ms - -[0m
+{ name: 'dummy',
+  hp: 5,
+  color: 'blue',
+  width: 40,
+  height: 40,
+  x: 188,
+  y: 123,
+  shots: [],
+  speedX: 0,
+  speedY: 0,
+  shotcount: 4403,
+  hits: 982,
+  kills: 69,
+  deaths: 0,
+  killstreak: 0,
+  canShoot: true,
+  id: '/#zoHLVODV8NolaHowAAB5' }
+[0mPOST /users/upshot [32m200 [0m1.489 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.334 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.272 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.754 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.350 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.308 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.309 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.338 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.321 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.362 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.392 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.321 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.417 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.315 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.393 ms - 2[0m
+/#hmpJCMJHdtluT9vlAAB3 was hit
+/#hmpJCMJHdtluT9vlAAB3 died
+[0mPOST /users/uphit [32m200 [0m1.348 ms - 2[0m
+[0mPOST /users/upkill [32m200 [0m1.107 ms - 2[0m
+/#hmpJCMJHdtluT9vlAAB3
+[ { name: 'dummy',
+    hp: 5,
+    color: 'blue',
+    width: 40,
+    height: 40,
+    x: 308,
+    y: 211,
+    shots: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+    speedX: -4,
+    speedY: -4,
+    shotcount: 4419,
+    hits: 983,
+    kills: 70,
+    deaths: 0,
+    killstreak: 0,
+    canShoot: true,
+    id: '/#zoHLVODV8NolaHowAAB5' },
+  '-1': { name: 'dummy',
+    hp: 0,
+    color: 'blue',
+    width: 8,
+    height: 8,
+    x: 262,
+    y: 407,
+    shots: [],
+    speedX: 0,
+    speedY: 0,
+    shotcount: 3465,
+    hits: 958,
+    kills: 67,
+    deaths: 0,
+    killstreak: 0,
+    canShoot: true,
+    id: '/#bRDOgyKIBXhVG9ujAABs' } ]
+[0mPOST /users/upshot [32m200 [0m2.063 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.324 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.294 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.306 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.289 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.311 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.278 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.327 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.308 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.323 ms - 2[0m
+[0mPOST /users/upshot [32m200 [0m1.378 ms - 2[0m

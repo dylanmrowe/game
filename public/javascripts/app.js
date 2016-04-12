@@ -323,7 +323,7 @@ app.factory('Player', ['$timeout', 'Shot', '$http', function ($timeout, Shot, $h
         this.drawShots = function () {
             this.shots.forEach(function (shot) {
                 ctx = gameArea.context;
-                ctx.fillStyle = color;
+                ctx.fillStyle = '#'+(Math.random()*0xFFFFFF<<0).toString(16);
                 ctx.fillRect(shot.x, shot.y, shot.width, shot.height);
             })
         }
