@@ -27,7 +27,23 @@
             </nav>
         </div>
 
-        <div class="container-fluid">
+        <div id="leaderboardcontainer" class="container-fluid">
+            <div class="row-fluid">
+                <div class="panel panel-b" id="" background-color="black">
+                    <div class="panel-heading center">
+                        <h3>Leaderboard</h3>
+                    </div>
+                    <div id="userkillstreak">
+                        Your Killstreak: {{user.killstreak}}
+                    </div>
+                    <div class="panel-body" id="players">
+
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="canvascontainer" class="container-fluid">
             <canvas id='canvas'></canvas>
         </div>
     </div>
